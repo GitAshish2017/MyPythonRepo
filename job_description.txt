@@ -1,0 +1,2 @@
+Required Skills:
+Core Java fundamentals (OOP, data structures, collections, concurrency), frameworks like Spring, database skills (SQL, JDBC), web technologies (HTML, CSS, JavaScript, RESTful services), development tools (Git, Maven/Gradle), testing principles (unit, integration), and DevOps practices (CI/CD, Docker, cloud services)
